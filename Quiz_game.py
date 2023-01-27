@@ -1,4 +1,4 @@
-print("\nWelcome to my computer quiz!\n ")
+print("\nWelcome to my first computer quiz!\n ")
 playing = input("If you get wrong answer '3' times you will fail!! \nDo you want to play? type ' yes ' or ' no '\n ")
 hint_value = 0
 
